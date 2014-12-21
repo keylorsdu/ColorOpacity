@@ -8,3 +8,4 @@ convert your decimal opacity values to a Hexdecimal value.
 This program determine your AA to percent.
 Simple , we all can rewrite it , are you interesting to make your part of implemention?
 
+http://stackoverflow.com/questions/5445085/understanding-colors-in-android-6-characters/11019879#11019879
